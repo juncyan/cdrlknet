@@ -1,3 +1,26 @@
+<div align="center">
+    <h2>
+        Large kernel convolution application for land cover change detection ofremote sensing images
+    </h2>
+</div>
+<br>
+
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.jag.2024.104077">
+    <span style="font-size: 20px; ">arXiv</span>
+  </a>
+</div>
+<br>
+<br>
+
+[![elsevier](https://img.shields.io/badge/arXiv-2406.04207-b31b1b.svg)](https://doi.org/10.1016/j.jag.2024.104077)
+[![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
+
+
+<br>
+<br>
+
 # Large kernel convolution application for land cover change detection ofremote sensing images
 
 CD-RLKNet in [10.1016/j.jag.2024.104077](https://doi.org/10.1016/j.jag.2024.104077)
