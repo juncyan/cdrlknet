@@ -1,4 +1,4 @@
-# Large kernel convolution application for land cover change detection ofremote sensing images
+# Large kernel convolution application for land cover change detection of remote sensing images
 
 published in International Journal of Applied Earth Observation and Geoinformation
 
